@@ -1,0 +1,10 @@
+import "https://cdn.jsdelivr.net/gh/shivansh4123/portfiles@main/jquery.min.js.download";
+import "https://cdn.jsdelivr.net/gh/shivansh4123/portfiles@main/bootstrap.bundle.min.js.download";
+import "https://cdn.jsdelivr.net/gh/shivansh4123/portfiles@main/jquery.fancybox.min.js.download";
+import "https://cdn.jsdelivr.net/gh/shivansh4123/portfiles@main/mixitup.min.js.download";
+import "https://cdn.jsdelivr.net/gh/shivansh4123/portfiles@main/owl.carousel.min.js.download";
+import "https://cdn.jsdelivr.net/gh/shivansh4123/portfiles@main/jquery.countdown.min.js.download";
+import "https://cdn.jsdelivr.net/gh/shivansh4123/portfiles@main/wow.min.js.download";
+import "https://cdn.jsdelivr.net/gh/shivansh4123/portfiles@main/color.js.download";
+import "https://cdn.jsdelivr.net/gh/shivansh4123/portfiles@main/style.switch.js.download";
+import "https://cdn.jsdelivr.net/gh/shivansh4123/portfiles@main/custom.js.download";
